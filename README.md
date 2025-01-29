@@ -1,1 +1,1 @@
-
+![Cover](assets/ShadowCore.jpg)
